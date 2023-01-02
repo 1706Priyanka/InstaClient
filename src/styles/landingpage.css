@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap");
+.insta-logo {
+  font-family: "Grand Hotel", cursive;
+  font-weight: bold;
+  margin-left: 5px;
+  background: linear-gradient(
+    to right,
+    #f48fb1,
+    #7e57c2,
+    #26c6da,
+    #65ef6c,
+    #f9a825,
+    #ff5722
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.landing {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.image-style {
+  width: 120%;
+  height: 120%;
+  margin-left: 30%;
+  margin-top: 20%;
+  border-radius: 100px;
+}
+
+.insta-div {
+  width: 40%;
+  height: 50%;
+  flex-direction: column;
+  margin-top: 15%;
+  margin-left: 30%;
+}
+
+.instaclone {
+  color: white;
+  font-family: "Grand Hotel", cursive;
+  font-weight: bold;
+}
+
+.page-link {
+  color: white;
+  padding: 20px 30px;
+  font-weight: 700;
+}
+
+.enter {
+  margin-left: 30%;
+  border-radius: 10px;
+  background-color: rgba(176, 109, 239, 0.655);
+}

@@ -1,0 +1,14 @@
+.input-field {
+  background-image: radial-gradient(
+    circle,
+    #e7e9abdb,
+    #ffd9abd3,
+    #ffccbeda,
+    #ffc6d6e8,
+    #e9c7e8d9
+  );
+}
+
+::placeholder {
+  color: rgba(92, 91, 91, 0.858);
+}

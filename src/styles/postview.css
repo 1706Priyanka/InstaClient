@@ -1,0 +1,7 @@
+.posts-card {
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #9ee7f8b6, #b1e1f1a2);
+}
